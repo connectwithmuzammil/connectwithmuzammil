@@ -1,27 +1,74 @@
-# 💫 About Me:
-# 👋 Hi, I'm Muzammil Khan<br><br>🚀 Frontend Developer with 3+ years of experience building scalable, high-performance web applications.<br><br>---<br><br>## 💼 About Me<br><br>I'm a passionate **Frontend Developer** specializing in building modern, responsive, and accessible user interfaces. I enjoy turning complex product requirements and Figma designs into clean, reusable components with a strong focus on performance and user experience.<br><br>* 💻 3+ years of experience in frontend development<br>* ⚛️ Strong expertise in React & Next.js<br>* 🎯 Focused on performance, scalability & clean UI architecture<br>* 🌍 Based in Karachi, Pakistan<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Frontend:**<br>React.js • Next.js • JavaScript (ES6+) • TypeScript • Tailwind CSS • HTML5 • CSS3<br><br>**State Management & Data:**<br>Redux • React Query<br><br>**Backend & Tools:**<br>Node.js • Express.js • MongoDB<br><br>**Other Tools:**<br>Git • GitHub • Figma • REST APIs<br><br>---<br><br>## 🔥 What I Do<br><br>* Build responsive, accessible, and user-friendly web interfaces<br>* Convert Figma/UI designs into reusable React components<br>* Integrate APIs with efficient state management<br>* Optimize applications using lazy loading, code splitting & caching<br>* Collaborate in Agile teams to deliver production-ready apps<br><br>---<br><br>## 🚀 Key Highlights<br><br>* ⚡ Developed patient-facing web applications with strong UX focus<br>* ⚡ Worked on high-traffic campaign platforms handling large user loads<br>* ⚡ Integrated secure payment systems (Stripe)<br>* ⚡ Implemented multilingual support (i18n)<br><br>---<br><br>## 📂 Featured Work<br><br>🔹 Built scalable UI systems using React & Tailwind<br>🔹 Developed real-time interactive web features<br>🔹 Delivered optimized applications for performance and speed<br><br>---<br><br>## 📫 Connect With Me<br><br>* 📧 Email: [muzammilmmk.77@gmail.com](mailto:muzammilmmk.77@gmail.com)<br>* 📍 Location: Karachi, Pakistan<br><br>---<br><br>⭐ *Always open to exciting frontend opportunities and collaborations!*<br>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
+
+</h2>
+
+<a href="https://vinodjangid07.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a>
+<br><br>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vinodjangid07&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/vinodjangid07)
+<p align="left"><img align="left" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80c5f1d3-51b2-4467-9ae8-694c90ed16ae" width="200px"></p>
+<ul align="right">
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://www.vinodjangid.site/" target="_blank">Portfolio</a> to know more about me ...</li>
+</ul>
+
+<br><br><br><br><a href="https://wakatime.com/@235697b3-0e7f-4ee0-94ee-e9aec63ba898">
+  <img src="https://wakatime.com/badge/user/235697b3-0e7f-4ee0-94ee-e9aec63ba898.svg?color=9f65ff" alt="Total time coded since Sep 16 2023" />
+</a>
+
+<p align="left"><img width="117" alt="Frame 24" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fe9e5a0d-e48a-4fac-ba66-d6d99c368d54"></p>
+<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/connectwithmuzammil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/connectwithmuzammil/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muzammilmmk.77@gmail.com) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=connectwithmuzammil&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=connectwithmuzammil&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=connectwithmuzammil&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=connectwithmuzammil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left">
+ <a href="https://www.linkedin.com/in/vinodjangid07/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="Linkdin" height="50" title="linkdin"></a>
+  <a href="mailto:infovinodjangid@gmail.com" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/cbe4890a-aac0-465c-ba24-33458e9f8881" alt="Gmail" height="50" title="Gmail"></a>
+  <a href="https://twitter.com/Vinod_Jangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80ca6f4f-01a3-40db-a50f-77bde71f13ad" alt="Twitter" height="50" title="Twitter"></a>
+ <a href="https://www.instagram.com/pexel_ui/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a>
+  <a href="https://uiverse.io/profile/vinodjangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/b07ceafc-8cc1-4e4d-a5b4-e1846c40f0c2" alt="uiverse" height="50" title="Uiverse"></a>
+ <a href="https://codepen.io/vinodjangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/85960e4e-546e-4b2e-a2f5-0b7ae0a2e15d" alt="Codepen" height="50" title="Codepen"></a>
+ <a href="https://www.vinodjangid.site/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/3a2a0e30-8369-4f1a-9788-95fa30ac2f36" alt="Portfolio" height="50" title="Portfolio"></a>
+</p>
+<br>
+
+<img width="137" alt="Frame 22" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
+<br><br><br>
+
+<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/4e342502-fa63-4699-8f2d-06c5150171b4" alt="CSS" height="50" title="CSS">
+<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/9e6de8bd-99ad-4e43-a3c1-9f74b9f138ad" alt="Javascript" height="50" title="JS">
+<img src="https://github.com/user-attachments/assets/ae704064-27be-496c-b887-77306f2a01f7" alt="ASTRO" height="50" title="ASTRO">
+<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/821e31cf-ac55-411b-8972-fc64a5485612" alt="REACT" height="50" title="REACT">
+<img src="https://github.com/user-attachments/assets/6ab6adb0-57c3-48d0-bc4f-c3d376438674" alt="NEXTJS" height="50" title="NEXTJS">
+<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/e82354f3-ed3d-408b-8738-30d4c518610b" alt="NODEJS" height="50" title="NODE JS">
+
+<br>
+<img src="https://github.com/user-attachments/assets/d6449419-4111-4ca1-9602-d249de60a2dd" alt="CONTENTFUL" height="50" title="CONTENTFULCMS">
+<img src="https://github.com/user-attachments/assets/6a631a5e-57ea-4836-93fa-ed0582fd2d7d" alt="TINACMS" height="50" title="TINACMS">
+<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/8b59783d-a52c-4be4-9f00-f791057d4e0b" alt="FIGMA" height="50" title="FIGMA">
+<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/bd7bc243-8e54-4a12-97b7-593e4b860bc4" alt="GITHUB" height="50" title="GITHUB">
+<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/259907ba-c4ff-4fa3-9d49-6827409fcd4b" alt="GIT" height="50" title="GIT">
+<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/0fdebf20-d402-42ae-bc7d-5650a5ddc0fb" alt="NETLIFY" height="50" title="NETLIFY">
+
+<br><br>
+<img width="150" alt="SUPPORTMe 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/d2bd3af3-a9c0-404c-8f98-97704b39a19c">
+<br><br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I2VPYED)
+<br><br>
+<img align="left" width="156" alt="Frame 23" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/398dfbb4-ca41-4b39-98ba-76f03ca76bbe">
+
+<br><br>
+  
+![](https://komarev.com/ghpvc/?username=your-github-vinodjangid07&color=blueviolet)
+
+![](https://github-readme-stats.vercel.app/api?username=vinodjangid07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjangid07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=connectwithmuzammil&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=connectwithmuzammil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api?username=vinodjangid07&limit=5&theme=dark&combine_all_yearly_contributions=true)
