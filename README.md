@@ -16,7 +16,7 @@
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -26,6 +26,7 @@ const muzammil = {
   focus: "Frontend Development",
   stack: ["React.js", "React Native", "Next.js", "TypeScript", "Node.js", "MongoDB"],
   currentlyBuilding: "Pixel-perfect UIs with smooth UX",
+  currentlyExploring: "AI-powered UIs & LLM API integrations",
   passion: "Turning complex problems into clean, simple interfaces",
   available: true,
 };
@@ -35,50 +36,20 @@ I'm a **Software Engineer** based in **Karachi, Pakistan** 🇵🇰 with a deep 
 
 I care about **clean code**, **great DX**, and **interfaces people actually enjoy using**.
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,graphql,mongodb,tailwind,figma,git,github,vscode,postman&theme=dark" alt="Tech stack icons" />
+</p>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=connectwithmuzammil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=connectwithmuzammil&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+**Frontend:** React.js · React Native · Next.js · TypeScript · React Query · Framer Motion · Tailwind CSS · shadcn/ui
+**Backend:** Node.js · NestJS · Express.js · GraphQL · MongoDB
+**Integrations:** Stripe · PayPal · Twilio · SendGrid
+**Tools:** Git · GitHub · VS Code · Figma · Postman
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectwithmuzammil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-
-</div>
-
----
 
 ## 🚀 What I Build
 
@@ -86,15 +57,32 @@ I care about **clean code**, **great DX**, and **interfaces people actually enjo
 - **🎨 UI component systems** — Tailwind CSS + shadcn/ui, design-system thinking from day one
 - **🔁 Data-driven interfaces** — React Query for async state, smooth loading & caching patterns
 - **✨ Motion & interaction** — Framer Motion animations that feel intentional, not gratuitous
-- **🔗 Full-stack features** — Node.js + Express REST APIs backed by MongoDB
+- **🔗 Full-stack features** — Node.js / NestJS + GraphQL APIs backed by MongoDB
 
----
+<br/>
+
+## 🌟 Featured Work
+
+<table>
+<tr>
+<td valign="top">
+
+**🥤 PepsiCo — "Dil Dil Pakistan 2025" Campaign**
+Contributed as Frontend Developer to PepsiCo's nationwide campaign. Users scan a QR code on Pepsi bottles, which redirects to a mobile-only website I built where they play and win prizes. Focused on performance and seamless UX under heavy traffic across millions of users nationwide.
+
+`React` `Mobile Web` `QR Redirect Flow` `High-Traffic Performance`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📝 Latest Writing
 
 I share what I learn on [Medium](https://medium.com/@connectwithmuzammil) — frontend system design, React patterns, and things I wish I'd known earlier.
 
----
+<br/>
 
 ## 🤝 Let's Connect
 
@@ -108,9 +96,13 @@ If you're building something interesting and need a frontend engineer who gives 
 
 </div>
 
----
+<br/>
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=connectwithmuzammil&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=connectwithmuzammil&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
