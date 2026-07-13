@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connectwithmuzammil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connectwithmuzammil/)
 [![GitHub](https://img.shields.io/badge/GitHub-connectwithmuzammil-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/connectwithmuzammil)
-[![Medium](https://img.shields.io/badge/Medium-@muzammilmmk.77-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@muzammilmmk.77)
+[![Medium](https://img.shields.io/badge/Medium-@muzammilmmk.77-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@connectwithmuzammil)
 [![Linktree](https://img.shields.io/badge/Linktree-connectwithmuzammil-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/connectwithmuzammil)
 [![Email](https://img.shields.io/badge/Email-muzammilmmk.77@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muzammilmmk.77@gmail.com)
 
