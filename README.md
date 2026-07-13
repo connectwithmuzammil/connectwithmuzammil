@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connectwithmuzammil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connectwithmuzammil/)
 [![GitHub](https://img.shields.io/badge/GitHub-connectwithmuzammil-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/connectwithmuzammil)
-[![Medium](https://img.shields.io/badge/Medium-@muzammilmmk.77-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@connectwithmuzammil)
+[![Medium](https://img.shields.io/badge/Medium-connectwithmuzammil-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@connectwithmuzammil)
 [![Linktree](https://img.shields.io/badge/Linktree-connectwithmuzammil-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/connectwithmuzammil)
 [![Email](https://img.shields.io/badge/Email-muzammilmmk.77@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muzammilmmk.77@gmail.com)
 
@@ -70,7 +70,7 @@ I care about **clean code**, **great DX**, and **interfaces people actually enjo
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=connectwithmuzammil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=connectwithmuzammil&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=connectwithmuzammil&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
 <br/>
 
@@ -92,7 +92,7 @@ I care about **clean code**, **great DX**, and **interfaces people actually enjo
 
 ## 📝 Latest Writing
 
-I share what I learn on [Medium](https://medium.com/@muzammilmmk.77) — frontend system design, React patterns, and things I wish I'd known earlier.
+I share what I learn on [Medium](https://medium.com/@connectwithmuzammil) — frontend system design, React patterns, and things I wish I'd known earlier.
 
 ---
 
